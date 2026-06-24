@@ -58,11 +58,21 @@ Executives can see revenue growing, but growth isn't the same as health. The que
 Supporting scripts (`conflict_summary.py`, `product_conflicts.py`) validate data quality — notably detecting `product_id` values mapping to multiple product names/categories before keys are assigned.
 
 ---
-
 ## Data Model (Star Schema)
 
-A single fact table surrounded by five dimensions:
-
+```text
+                  +------------+
+                  |  dim.date  |
+                  +------------+
+                        |
++--------------+   +------------+   +-------------+
+| dim.customer |---| fact.sales |---| dim.product |
++--------------+   +------------+   +-------------+
+                    /          \
+        +--------------+    +---------------+
+        | dim.geography|    | dim.ship_mode |
+        +--------------+    +---------------+
+```
 
 
 
