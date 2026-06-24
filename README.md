@@ -3,7 +3,9 @@
 A portfolio-grade business intelligence solution analyzing sales performance and profitability across a global retail operation. Built end-to-end with **Python**, **SQL Server**, and **Power BI** on a star-schema data model.
 
 > **Core narrative:** Sales volume alone tells you nothing about business health. This dashboard exposes *where revenue is profitable and where margin quietly leaks away* — surfacing that **24.5% of all order lines lose money**, draining roughly **$920K** in profit that top-line sales figures completely hide.
+![Executive Overview](screenshots/executive_overview.png)
 
+📄 [View the full report (PDF)](powerbi/GlobalSuperstore.pdf)
 ---
 
 ## Business Problem
@@ -179,13 +181,25 @@ Other measure families include customer/product/region ranking, loss contributio
 
 The report has **6 pages** with consistent navigation, KPI styling, and a unified color system.
 
-1. **Home** — landing page and navigation hub.
-2. **Executive Overview** — top-line KPIs, sales/profit trend, performance by region and category, and a discount-vs-margin view framed around four key executive questions.
-3. **Profitability Deep Dive** — margin-leakage analysis: loss-making sales, sub-category profitability, and the product-level detail behind unprofitable lines.
-4. **Customer Performance** — top/bottom customers by profit, segment contribution, and a sales-vs-profit scatter to spot high-revenue / low-profit customers.
-5. **Shipping & Logistics Performance** — ship-mode mix, shipping-day analysis, and geographic delivery performance.
-6. **Product Performance & Portfolio Analysis** — product ranking, portfolio segmentation (Star / Revenue Trap / Niche / Loss Maker), and high-sales / low-profit detection.
+1. **Executive Overview** — top-line KPIs, sales/profit trend, performance by region and category, and a discount-vs-margin view framed around four key executive questions.
+2. **Profitability Deep Dive** — margin-leakage analysis: loss-making sales, sub-category profitability, and the product-level detail behind unprofitable lines.
+3. **Customer Performance** — top/bottom customers by profit, segment contribution, and a sales-vs-profit scatter to spot high-revenue / low-profit customers.
+4. **Shipping & Logistics Performance** — ship-mode mix, shipping-day analysis, and geographic delivery performance.
+5. **Product Performance & Portfolio Analysis** — product ranking, portfolio segmentation (Star / Revenue Trap / Niche / Loss Maker), and high-sales / low-profit detection.
 
+## Dashboard Preview
+
+### Profitability Deep Dive
+![Profitability Deep Dive](screenshots/profitability_deep_dive.png)
+
+### Customer Performance
+![Customer Performance](screenshots/customer_performance.png)
+
+### Shipping & Logistics Performance
+![Shipping & Logistics](screenshots/shipping_logistics.png)
+
+### Product Performance & Portfolio Analysis
+![Product Portfolio](screenshots/product_portfolio.png)
 ---
 
 ## Key Insights
