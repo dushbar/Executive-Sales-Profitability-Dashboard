@@ -43,7 +43,7 @@ Executives can see revenue growing, but growth isn't the same as health. The que
 |---|---|---|
 | Data preparation | **Python** (pandas) | Cleaning, normalization, star-schema generation, data-quality checks |
 | Storage / analytics | **SQL Server** | Loading, validation, and 12 reusable analytics views |
-| Modeling & reporting | **Power BI Desktop** | Star-schema model, 58 DAX measures, 6 report pages |
+| Modeling & reporting | **Power BI Desktop** | Star-schema model, 58 DAX measures, 5 report pages |
 | Calculation language | **DAX** | KPIs, ranking, time intelligence, portfolio segmentation |
 
 ---
@@ -180,7 +180,7 @@ Other measure families include customer/product/region ranking, loss contributio
 
 ## Dashboard Pages
 
-The report has **6 pages** with consistent navigation, KPI styling, and a unified color system.
+The report has **5 pages** with consistent navigation, KPI styling, and a unified color system.
 
 1. **Executive Overview** — top-line KPIs, sales/profit trend, performance by region and category, and a discount-vs-margin view framed around four key executive questions.
 2. **Profitability Deep Dive** — margin-leakage analysis: loss-making sales, sub-category profitability, and the product-level detail behind unprofitable lines.
@@ -233,10 +233,11 @@ Executive-Sales-Profitability-Dashboard/
 │   ├── conflict_summary.py
 │   └── product_conflicts.py
 ├── sql/
-│   ├── 01_create_tables.sql
+│   ├── 01_setup.sql
 │   └── 02_create_analytics_views.sql
 │  
 ├── powerbi/
+|   ├── GlobalSuperstore.pdf
 │   └── GlobalSuperstore.pbix
 └── screenshots/
     ├── <executive_overview.png>
@@ -252,7 +253,7 @@ Executive-Sales-Profitability-Dashboard/
 
 1. Place the source `Global Superstore.csv` in the project root.
 2. Run `python scripts/data_prep.py -i "Global Superstore.csv" -o outputs` to generate the star-schema CSVs.
-3. Load the CSVs into SQL Server, then run `sql/01_create_tables.sql` followed by `sql/02_create_analytics_views.sql`.
+3. Load the CSVs into SQL Server, then run `sql/01_setup.sql` followed by `sql/02_create_analytics_views.sql`.
 4. Open `powerbi/GlobalSuperstore.pbix` in Power BI Desktop and refresh.
 
 ---
