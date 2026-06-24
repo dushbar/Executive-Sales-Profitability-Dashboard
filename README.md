@@ -3,6 +3,7 @@
 A portfolio-grade business intelligence solution analyzing sales performance and profitability across a global retail operation. Built end-to-end with **Python**, **SQL Server**, and **Power BI** on a star-schema data model.
 
 > **Core narrative:** Sales volume alone tells you nothing about business health. This dashboard exposes *where revenue is profitable and where margin quietly leaks away* — surfacing that **24.5% of all order lines lose money**, draining roughly **$920K** in profit that top-line sales figures completely hide.
+
 ![Executive Overview](screenshots/executive_overview.png)
 
 📄 [View the full report (PDF)](powerbi/GlobalSuperstore.pdf)
