@@ -1,0 +1,26 @@
+product_id,product_name,category,sub_category,number_of_rows,total_sales,total_profit,first_order_date,last_order_date
+FUR-CH-10003354,"Harbour Creations Swivel Stool, Red",Furniture,Chairs,17,6340.224,1309.884,2011-02-26,2014-10-22
+FUR-CH-10003354,"Novimex Bag Chairs, Black",Furniture,Chairs,11,1844.3661,-181.8039,2011-02-10,2014-11-26
+OFF-AR-10003651,"Sanford Pencil Sharpener, Easy-Erase",Office Supplies,Art,19,2289.105,1028.025,2011-06-22,2014-12-03
+OFF-AR-10003651,"Sanford Pens, Easy-Erase",Office Supplies,Art,10,528.705,90.705,2011-03-31,2014-10-24
+OFF-AR-10003651,Newell 350,Office Supplies,Art,6,62.32,15.744000000000002,2011-05-05,2014-11-01
+OFF-AR-10003829,"Stanley Markers, Fluorescent",Office Supplies,Art,12,1020.51,338.07,2011-05-04,2014-11-15
+OFF-AR-10003829,"Boston Highlighters, Water Color",Office Supplies,Art,10,614.46,152.64000000000001,2012-12-03,2014-12-06
+OFF-AR-10003829,Newell 35,Office Supplies,Art,9,93.152,23.288,2011-03-17,2014-09-10
+OFF-BI-10001808,"Cardinal Binding Machine, Clear",Office Supplies,Binders,17,4110.705,1628.505,2011-06-22,2014-12-03
+OFF-BI-10001808,"Ibico Index Tab, Clear",Office Supplies,Binders,7,235.6695,-7.0905000000000005,2012-05-23,2014-07-17
+OFF-BI-10002570,"Cardinal 3-Hole Punch, Clear",Office Supplies,Binders,14,1359.306,197.106,2011-02-09,2014-12-06
+OFF-BI-10002570,"Acco Binder Covers, Clear",Office Supplies,Binders,13,607.05,242.55,2011-01-26,2014-08-29
+OFF-BI-10002799,"Cardinal Binder Covers, Clear",Office Supplies,Binders,12,527.16,136.62,2011-02-09,2014-09-25
+OFF-BI-10002799,"Acco Binder Covers, Recycled",Office Supplies,Binders,11,339.264,-25.936,2011-08-17,2014-11-22
+OFF-BI-10002799,"SlimView Poly Binder, 3/8""",Office Supplies,Binders,7,117.586,5.697999999999999,2011-08-24,2014-10-22
+OFF-BI-10003650,"Ibico Index Tab, Clear",Office Supplies,Binders,16,441.045,45.765,2011-03-01,2014-12-17
+OFF-BI-10003650,GBC DocuBind 300 Electric Binding Machine,Office Supplies,Binders,8,6785.142,494.4212000000001,2011-12-12,2014-12-03
+OFF-BI-10003708,"Cardinal Binder, Recycled",Office Supplies,Binders,13,610.17,94.05000000000001,2011-09-30,2014-12-10
+OFF-BI-10003708,"Avery Binder, Economy",Office Supplies,Binders,11,454.08000000000004,162.14999999999998,2011-01-26,2014-12-22
+OFF-BI-10003708,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Office Supplies,Binders,6,122.18,7.450000000000001,2011-01-08,2014-12-25
+OFF-BI-10004140,Avery Non-Stick Binders,Office Supplies,Binders,13,75.432,-13.47,2011-04-04,2014-09-11
+OFF-BI-10004140,"Cardinal Index Tab, Clear",Office Supplies,Binders,12,291.4464,116.6064,2011-09-02,2014-11-13
+OFF-BI-10004632,Ibico Hi-Tech Manual Binding System,Office Supplies,Binders,11,5398.323,-304.98999999999995,2011-01-07,2014-09-05
+OFF-BI-10004632,"Avery 3-Hole Punch, Recycled",Office Supplies,Binders,10,555.19,-16.369999999999997,2011-04-27,2014-07-28
+OFF-BI-10004632,GBC Binding covers,Office Supplies,Binders,3,137.26999999999998,58.9225,2012-08-10,2014-12-31
