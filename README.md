@@ -4,7 +4,7 @@ A portfolio-grade business intelligence solution analyzing sales performance and
 
 > **Core narrative:** Sales volume alone tells you nothing about business health. This dashboard exposes *where revenue is profitable and where margin quietly leaks away* — surfacing that **24.5% of all order lines lose money**, draining roughly **$920K** in profit that top-line sales figures completely hide.
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/01_executive_overview.png)
 
 📄 [View the full report (PDF)](powerbi/GlobalSuperstore.pdf)
 ---
@@ -191,16 +191,16 @@ The report has **5 pages** with consistent navigation, KPI styling, and a unifie
 ## Dashboard Preview
 
 ### Profitability Deep Dive
-![Profitability Deep Dive](screenshots/profitability_deep_dive.png)
+![Profitability Deep Dive](screenshots/02_profitability_deep_dive.png)
 
 ### Customer Performance
-![Customer Performance](screenshots/customer_performance.png)
+![Customer Performance](screenshots/03_customer_performance.png)
 
 ### Shipping & Logistics Performance
-![Shipping & Logistics](screenshots/shipping_logistics.png)
+![Shipping & Logistics](screenshots/04_shipping_logistics.png)
 
 ### Product Performance & Portfolio Analysis
-![Product Portfolio](screenshots/product_portfolio.png)
+![Product Portfolio](screenshots/05_product_portfolio.png)
 ---
 
 ## Key Insights
