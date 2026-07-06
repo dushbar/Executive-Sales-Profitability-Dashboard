@@ -240,11 +240,11 @@ Executive-Sales-Profitability-Dashboard/
 |   ├── GlobalSuperstore.pdf
 │   └── GlobalSuperstore.pbix
 └── screenshots/
-    ├── <executive_overview.png>
-    ├── <profitability_deep_dive.png>
-    ├── <customer_performance.png>
-    ├── <shipping_logistics.png>
-    └── <product_portfolio.png>
+    ├── <01_executive_overview.png>
+    ├── <02_profitability_deep_dive.png>
+    ├── <03_customer_performance.png>
+    ├── <04_shipping_logistics.png>
+    └── <05_product_portfolio.png>
 ```
 
 ---
