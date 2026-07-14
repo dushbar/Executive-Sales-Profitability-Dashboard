@@ -186,7 +186,7 @@ The report has **5 pages** with consistent navigation, KPI styling, and a unifie
 2. **Profitability Deep Dive** — margin-leakage analysis: loss-making sales, sub-category profitability, and the product-level detail behind unprofitable lines.
 3. **Customer Performance** — top/bottom customers by profit, segment contribution, and a sales-vs-profit scatter to spot high-revenue / low-profit customers.
 4. **Shipping & Logistics Performance** — ship-mode mix, shipping-day analysis, and geographic delivery performance.
-5. **Product Performance & Portfolio Analysis** — product ranking, portfolio segmentation (Star / Revenue Trap / Niche / Loss Maker), and high-sales / low-profit detection.
+5. **Product Performance & Portfolio Analysis** — compares products by sales, profit, margin, and discount behavior to identify high-sales / low-profit products, loss-making products, and products requiring pricing or discount review.
 
 ## Dashboard Preview
 
